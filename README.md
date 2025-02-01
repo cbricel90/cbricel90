@@ -36,4 +36,4 @@ Currently an IT Manager at Amazon Transportation Services, transitioning into Se
 - [TryHackMe Profile](https://tryhackme.com/p/cbricel20)
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cbricel90&show_icons=true&theme=dark)
